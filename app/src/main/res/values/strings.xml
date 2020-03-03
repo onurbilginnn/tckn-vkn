@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Vergi/TC Kimlik No Kontrol</string>
+    <string name="info">- Mevcut program, vergi usül kanunu ve 4358 sayılı kanun doğrultusunda
+        T.C\'nin belirlemiş olduğu vergi ve T.C kimlik no oluşturma
+        algoritmalarına uygun olarak çalışmaktadır.\n- İlgili kimlik no\'larına
+        bağlı olan bilgilerin bu programda bulundurulması ve yayınlanması yasal
+        olmadığından bu bilgilere bu programdan erişim yoktur.\n- T.C vatandaşı
+        olan kişiler için vergi kimlik no, 1/7/2006 tarihinden itibaren 11 haneli olan T.C kimlik no\'dur.</string>
+    <string name="VKN_Gir">Vergi Kimlik No Giriniz</string>
+    <string name="TKN_Gir">TC Kimlik No Giriniz</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="elevation">4dp</dimen>
+    <dimen name="image_width">42dp</dimen>
+    <dimen name="editTextPadding">12sp</dimen>
+    <dimen name="sonucTextSize">18sp</dimen>
+    <dimen name="infoTextSize">12sp</dimen>
+</resources>
